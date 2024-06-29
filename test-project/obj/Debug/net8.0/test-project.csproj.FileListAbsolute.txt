@@ -1,0 +1,14 @@
+/Users/chrisrackey/challenges/c#-learning/c-sharp-learning/test-project/bin/Debug/net8.0/test-project
+/Users/chrisrackey/challenges/c#-learning/c-sharp-learning/test-project/bin/Debug/net8.0/test-project.deps.json
+/Users/chrisrackey/challenges/c#-learning/c-sharp-learning/test-project/bin/Debug/net8.0/test-project.runtimeconfig.json
+/Users/chrisrackey/challenges/c#-learning/c-sharp-learning/test-project/bin/Debug/net8.0/test-project.dll
+/Users/chrisrackey/challenges/c#-learning/c-sharp-learning/test-project/bin/Debug/net8.0/test-project.pdb
+/Users/chrisrackey/challenges/c#-learning/c-sharp-learning/test-project/obj/Debug/net8.0/test-project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chrisrackey/challenges/c#-learning/c-sharp-learning/test-project/obj/Debug/net8.0/test-project.AssemblyInfoInputs.cache
+/Users/chrisrackey/challenges/c#-learning/c-sharp-learning/test-project/obj/Debug/net8.0/test-project.AssemblyInfo.cs
+/Users/chrisrackey/challenges/c#-learning/c-sharp-learning/test-project/obj/Debug/net8.0/test-project.csproj.CoreCompileInputs.cache
+/Users/chrisrackey/challenges/c#-learning/c-sharp-learning/test-project/obj/Debug/net8.0/test-project.dll
+/Users/chrisrackey/challenges/c#-learning/c-sharp-learning/test-project/obj/Debug/net8.0/refint/test-project.dll
+/Users/chrisrackey/challenges/c#-learning/c-sharp-learning/test-project/obj/Debug/net8.0/test-project.pdb
+/Users/chrisrackey/challenges/c#-learning/c-sharp-learning/test-project/obj/Debug/net8.0/test-project.genruntimeconfig.cache
+/Users/chrisrackey/challenges/c#-learning/c-sharp-learning/test-project/obj/Debug/net8.0/ref/test-project.dll
